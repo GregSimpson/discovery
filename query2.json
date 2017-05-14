@@ -1,0 +1,5 @@
+{
+  "query":"python",
+  "count":5,
+  "filter":"enriched_text.docSentiment.type:negative"
+}
